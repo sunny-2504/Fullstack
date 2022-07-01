@@ -22,6 +22,7 @@ const App = () => {
     else
       setSelected(selected + 1)
   }
+  
 
 
   const vote = () => {
